@@ -4,9 +4,10 @@
 
 h1 {
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom : 100px;
     margin-right: 150px;
     margin-left: 150px;
+    color: red;
     background-color: rgb(195, 173, 230);
   }
 
@@ -17,7 +18,8 @@ h1 {
   margin: 25px 50px;
   background-color: lightblue;
  }
-            p {
+            testp {
+              color :green;
               background-color: rgb(223, 241, 194);
             }
 >>>>>>> 409f47d80cd158b8bab42ac07ed23ea34fb46e28
