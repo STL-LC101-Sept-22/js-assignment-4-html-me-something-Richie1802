@@ -1,22 +1,15 @@
-
-h1 {
-    margin-top: 100px;
-    margin-bottom : 100px;
-    margin-right: 150px;
-    margin-left: 150px;
-    color: red;
-    background-color: rgb(195, 173, 230);
-  }
+.mainHeading {
+       color: red;
+      }
 
 
 
-  .funparagraph {
+  h2 {
   border: 1px solid green;
   margin: 25px 50px;
   background-color: lightblue;
  }
-            testp {
+ .funparagraph {
               color :green;
-              background-color: rgb(223, 241, 194);
             }
 
