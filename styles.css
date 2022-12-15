@@ -10,7 +10,6 @@
   background-color: lightblue;
  }
 
-#testP
-.funParagraph {
-  color : rgb(0,255,0,1);
+#testP{
+  color : green;
  }
