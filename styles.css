@@ -5,12 +5,12 @@
 
 
   h2 {
-  border: 1px solid green;
+  border: 1px solid purple;
   margin: 25px 50px;
   background-color: lightblue;
  }
 
-.funParagraph {
-              color : 'green';
-            }
+p.funParagraph{
+  color: green;
+}
 
