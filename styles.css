@@ -1,1 +1,15 @@
-/* Write your CSS here! */
+#mainHeading {
+       color: red;
+      }
+
+
+
+  h2 {
+  border: 1px solid purple;
+  margin: 25px 50px;
+  background-color: lightblue;
+ }
+
+#testP{
+  color : green;
+ }
