@@ -9,7 +9,7 @@
   margin: 25px 50px;
   background-color: lightblue;
  }
-#testP.funParagraph{
-  color: green;
-}
 
+ .funParagraph {
+  color : #008000;
+ }
